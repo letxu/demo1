@@ -1,2 +1,3 @@
 # pc蛋蛋
-this is a b2c
+
+基于vue+cli+mint-ui+vux的一套h5程序
